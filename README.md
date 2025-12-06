@@ -1,8 +1,6 @@
 # Research Insight – Multimodal RAG PDF QA
 
-This project is a small research assistant that can read a PDF and answer questions from it.
-It works on text, tables, and images inside the document using a multimodal RAG pipeline.
-The main goal was to build something practical that can understand research papers better than normal text-only systems.
+This project is a small research assistant that can read a PDF and answer questions from it. It works on text, tables, and images inside the document using a multimodal RAG pipeline. The main goal was to build something practical that can understand research papers better than normal text-only systems.
 
 # What the system does
   
@@ -33,5 +31,4 @@ Gemini Vision reads that text + image context and answers your question
 
 # Why I built this
 
-I wanted to learn how multimodal RAG works end-to-end and how LLMs can handle PDFs that mix text, tables, and charts.
-This project helped me understand vector stores, embeddings, multimodal prompts, and chaining in LangChain.
+I wanted to learn how multimodal RAG works end-to-end and how LLMs can handle PDFs that mix text, tables, and charts. This project helped me understand vector stores, embeddings, multimodal prompts, and chaining in LangChain.
