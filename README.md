@@ -4,7 +4,7 @@ This project is a small research assistant that can read a PDF and answer questi
 
 # What the system does
   
-.Extracts text, tables, and images from a PDF
+.Extracts text, tables, and images from a PDF 
 .Creates short summaries and embeddings for better retrieval
 .Stores everything using a multi-vector setup (summaries + raw content)
 .Retrieves the most relevant pieces based on the user’s question
