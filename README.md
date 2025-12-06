@@ -4,12 +4,12 @@ This project is a small research assistant that can read a PDF and answer questi
 
 # What the system does
   
-Extracts text, tables, and images from a PDF
-Creates short summaries and embeddings for better retrieval
-Stores everything using a multi-vector setup (summaries + raw content)
-Retrieves the most relevant pieces based on the user’s question
-Uses Gemini Vision to combine text + images and generate the final answer
-The idea is to get answers that are grounded in the actual PDF content.
+.Extracts text, tables, and images from a PDF
+.Creates short summaries and embeddings for better retrieval
+.Stores everything using a multi-vector setup (summaries + raw content)
+.Retrieves the most relevant pieces based on the user’s question
+.Uses Gemini Vision to combine text + images and generate the final answer
+.The idea is to get answers that are grounded in the actual PDF content.
 
 # Tech Used
 
