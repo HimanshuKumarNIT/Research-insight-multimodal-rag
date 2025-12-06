@@ -5,7 +5,7 @@ It works on text, tables, and images inside the document using a multimodal RAG 
 The main goal was to build something practical that can understand research papers better than normal text-only systems.
 
 # What the system does
- 
+  
 Extracts text, tables, and images from a PDF
 Creates short summaries and embeddings for better retrieval
 Stores everything using a multi-vector setup (summaries + raw content)
